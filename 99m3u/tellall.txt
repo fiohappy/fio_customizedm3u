@@ -1,0 +1,4 @@
+这个文件夹下面的文件都是只能个人使用的，除非你的路由器地址也是192.168.99.1
+路由器里还需要有docker来运行这三个容器：youshandefeiyang/allinone  ；containrrr/watchtower  ；youshandefeiyang/php-env
+这样才能食用这些文件。
+浪费阁下的时间，实属抱歉了。Sorry。。。。。。
